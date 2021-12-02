@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217377631286",
+    "project_id": "kemana-aja",
+    "storage_bucket": "kemana-aja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217377631286:android:7dee791868835a9f7afc97",
+        "android_client_info": {
+          "package_name": "com.app.kemanaaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217377631286-8tj049s70048vfok5v9624nanfrvg7i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgkSXxYabZiAFVaNrIE1-xs80zNlPch0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217377631286-8tj049s70048vfok5v9624nanfrvg7i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
